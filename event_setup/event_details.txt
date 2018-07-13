@@ -1,0 +1,1 @@
+{"event":"Elrow Party", "date":"03.08.2018", "city":"New York"}
